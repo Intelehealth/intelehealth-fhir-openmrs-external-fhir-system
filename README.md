@@ -1,2 +1,2 @@
-# intelehealth-path-openmrs-external-fhir-system
-Repository for Path OpenMRS External FHIR System
+# intelehealth-fhir-openmrs-external-fhir-system
+Repository for FHIR OpenMRS External FHIR System
