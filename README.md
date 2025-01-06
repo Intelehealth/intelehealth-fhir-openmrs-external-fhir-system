@@ -22,7 +22,7 @@ mvn spring-boot:run
 
 ## Steps to start in Docker
 
-step-1: clone the code
+step-1: Clone the code
 
         git clone https://github.com/Intelehealth/intelehealth-fhir-openmrs-external-fhir-system.git
 
@@ -30,15 +30,15 @@ step-2: Enter to root folder
 
         cd intelehealth-fhir-openmrs-external-fhir-system
         
-step-3: edit src/main/resources/application.properties
+step-3: Edit src/main/resources/application.properties
 
         replace the relevant urls
 
-step-4: 
+step-4: Build the image
 
         docker compose build
 
-step-5: 
+step-5: Run the application
 
         docker compose up -d
 
