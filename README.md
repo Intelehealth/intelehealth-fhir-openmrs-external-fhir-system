@@ -20,7 +20,7 @@ mvn spring-boot:run
 
 
 
-## Steps
+## Steps to start in Docker
 
 step-1: edit src/main/resources/application.properties
 
