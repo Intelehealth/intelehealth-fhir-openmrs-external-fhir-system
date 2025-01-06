@@ -27,11 +27,14 @@ step-1: edit src/main/resources/application.properties
         replace the relevant urls
 
 step-2: 
+
         docker compose build
 
 step-3: 
+
         docker compose up -d
 
 
 ## browse
+
         http://host-ip:7002   
